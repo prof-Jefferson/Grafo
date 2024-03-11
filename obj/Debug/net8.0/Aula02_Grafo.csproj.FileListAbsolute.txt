@@ -1,0 +1,14 @@
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\bin\Debug\net8.0\Aula02_Grafo.exe
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\bin\Debug\net8.0\Aula02_Grafo.deps.json
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\bin\Debug\net8.0\Aula02_Grafo.runtimeconfig.json
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\bin\Debug\net8.0\Aula02_Grafo.dll
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\bin\Debug\net8.0\Aula02_Grafo.pdb
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\Aula02_Grafo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\Aula02_Grafo.AssemblyInfoInputs.cache
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\Aula02_Grafo.AssemblyInfo.cs
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\Aula02_Grafo.csproj.CoreCompileInputs.cache
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\Aula02_Grafo.dll
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\refint\Aula02_Grafo.dll
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\Aula02_Grafo.pdb
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\Aula02_Grafo.genruntimeconfig.cache
+D:\Ensino\IFPR\2024\POO-I\Aula 02\Aula02_Grafo\obj\Debug\net8.0\ref\Aula02_Grafo.dll
